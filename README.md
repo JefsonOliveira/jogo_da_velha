@@ -4,9 +4,9 @@
 
 ## Funcionalidades
 
-- 🎮 **Modo de Jogo para Dois Jogadores**: Jogue contra um amigo no mesmo dispositivo.
+- 🎮 **Modo de Jogo**: Jogue contra boot.
 - 🔄 **Reiniciar Jogo**: Reinicie o jogo a qualquer momento para começar uma nova partida.
-- 🏆 **Indicador de Vencedor**: O jogo exibe claramente o vencedor ou se houve um empate.
+- 🏆 **Indicador de Vencedor**: O jogo exibe claramente o vencedor.
 - 🎨 **Interface Amigável**: Interface de usuário limpa e fácil de usar, desenvolvida com ReactJS.
 
 ## Tecnologias Utilizadas
